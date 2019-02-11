@@ -16,7 +16,9 @@
     "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-es-most-recent-participants/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-es-most-recent-participants",
-  "dependencies": {},
+  "dependencies": {
+    "buffer-xor": "^2.0.2"    
+  },
   "peerDependencies": {
     "bedrock": "^1.13.0",
     "bedrock-ledger-node": "^7.0.0"
