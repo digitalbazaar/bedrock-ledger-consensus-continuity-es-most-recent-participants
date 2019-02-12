@@ -1,5 +1,10 @@
 # bedrock-ledger-consensus-continuity-es-most-recent-participants ChangeLog
 
+## 2.0.0 - 2019-02-12
+
+### Changed
+- **BREAKING**: Change algorithm for breaking ties during elector selection.
+
 ## 1.0.0 - 2018-10-09
 
 - See git history for changes.
