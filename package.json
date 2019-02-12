@@ -1,6 +1,6 @@
 {
   "name": "bedrock-ledger-consensus-continuity-es-most-recent-participants",
-  "version": "2.0.0",
+  "version": "2.0.1-0",
   "description": "Continuity elector selection using most recent participants.",
   "main": "lib",
   "repository": {
