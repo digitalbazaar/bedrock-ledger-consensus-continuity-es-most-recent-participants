@@ -1,6 +1,6 @@
 # bedrock-ledger-consensus-continuity-es-most-recent-participants ChangeLog
 
-## 2.1.0 - TBD
+## 2.1.0 - 2019-02-13
 
 ### Added
 - An `electorCandidateFilterPattern` configuration option. The value of the
